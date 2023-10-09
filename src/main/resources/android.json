@@ -1,0 +1,6 @@
+{
+  "autoGrantPermission": true,
+  "app": "SecretEscapes.apk",
+  "deviceName": "Test device",
+  "automationName": "UIAutomator2"
+}
